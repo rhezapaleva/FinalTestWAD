@@ -1,0 +1,138 @@
+[
+  {
+    "user": {
+      "location": "Jurong East, Singapore",
+      "calendlyURL": "https://calendly.com/dominicj-2022",
+      "contactInformation": "+65 123456789",
+      "email": "provider1@example.com",
+      "name": "John Doe",
+      "profileImage": "profile1.jpg",
+      "username": "john_photographer",
+      "is_service_provider": true,
+      "userid": "1"
+    },
+    "service": {
+      "serviceId": "1",
+      "serviceCategory": "Photography",
+      "serviceDescription": "Capturing beautiful moments.",
+      "serviceTitle": "Professional Photographer",
+      "productArray": [
+        {
+          "pricing": 50,
+          "product_name": "Photography Service",
+          "product_image": "photo1.jpg",
+          "product_description": "Professional photography service."
+        }
+      ],
+      "serviceImage": ["photo1.jpg", "photo2.jpg", "photo3.jpg"],
+      "reviews": [
+        {
+          "review": "Great service!",
+          "rating": 4.7,
+          "reviewerName": "Alice"
+        },
+        {
+          "review": "Very professional.",
+          "rating": 4.9,
+          "reviewerName": "Bob"
+        },
+        {
+          "review": "Highly recommended.",
+          "rating": 4.5,
+          "reviewerName": "Charlie"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "location": "Orchard Road, Singapore",
+      "calendlyURL": "https://calendly.com/dominicj-2022",
+      "contactInformation": "+65 987654321",
+      "email": "provider2@example.com",
+      "name": "Jane Smith",
+      "profileImage": "profile2.jpg",
+      "username": "jane_designer",
+      "is_service_provider": true,
+      "userid": "2"
+    },
+    "service": {
+      "serviceId": "2",
+      "serviceCategory": "Graphic Design",
+      "serviceDescription": "Creating stunning designs.",
+      "serviceTitle": "Graphic Designer Extraordinaire",
+      "productArray": [
+        {
+          "pricing": 40,
+          "product_name": "Graphic Design Service",
+          "product_image": "design1.jpg",
+          "product_description": "Professional graphic design service."
+        }
+      ],
+      "serviceImage": ["design1.jpg", "design2.jpg", "design3.jpg"],
+      "reviews": [
+        {
+          "review": "Excellent service!",
+          "rating": 4.8,
+          "reviewerName": "David"
+        },
+        {
+          "review": "Very skilled.",
+          "rating": 4.9,
+          "reviewerName": "Ella"
+        },
+        {
+          "review": "Impressive work.",
+          "rating": 4.7,
+          "reviewerName": "Frank"
+        }
+      ]
+    }
+  },
+  {
+    "user": {
+      "location": "Buangkok, Singapore",
+      
+      "contactInformation": "+65 83170131",
+      "email": "dominicjovin7@gmail.com",
+      "name": "Dominic Jovin",
+      "profileImage": "https://cdn.vuetifyjs.com/images/john.jpg",
+      "username": "@Dom1003",
+      "is_service_provider": true,
+      "userid": "3"
+    },
+    "service": {
+      "serviceId": "3",
+      "serviceCategory": "Website Design",
+      "serviceDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt, repellat, consequuntur quam esse tempora error itaque atque excepturi quae nemo eligendi ipsa possimus vitae nisi enim cumque quibusdam. Amet, cupiditate!",
+      "serviceTitle": "I will design responsive website for your business",
+      "productArray": [
+        {
+          "pricing": 50,
+          "product_name": "Photography Service",
+          "product_image": "photo1.jpg",
+          "product_description": "Professional photography service."
+        }
+      ],
+      "serviceImage": ["https://cdn.vuetifyjs.com/images/cards/docks.jpg", "https://cdn.vuetifyjs.com/images/cards/hotel.jpg", "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"],
+      "calendlyURL": "https://calendly.com/dominicj-2022",
+      "reviews": [
+        {
+          "review": "Great service!",
+          "rating": 4.7,
+          "reviewerName": "Alice"
+        },
+        {
+          "review": "Very professional.",
+          "rating": 4.9,
+          "reviewerName": "Bob"
+        },
+        {
+          "review": "Highly recommended.",
+          "rating": 4.5,
+          "reviewerName": "Charlie"
+        }
+      ]
+    }
+  }
+]

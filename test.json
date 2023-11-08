@@ -1,0 +1,110 @@
+{"contactInformation": "+65 987654328",
+"is_service_provider": true,
+"location": "Serangoon, Singapore",
+"userid": "10",
+"email": "phoneservice@example.com",
+"username": "sarah_phonefix",
+"profileImage": "profile9.jpg",
+"calendlyURL": "https://calendly.com/dominicj-2022",
+"mrr": {
+    "July 2023": 220,
+    "May 2023": 200,
+    "August 2023": 300,
+    "June 2023": 140
+},
+"permits": {
+    "website1": {
+        "desciption": " Sleek's comprehensive guide to licensing and permits in Singapore is your go-to resource for navigating the regulatory landscape. Whether you're a startup or an established business, this resource provides expert insights into the licenses and permits required to operate in Singapore. From business registration to specific industry permits, it covers it all. Access essential information, tips, and step-by-step instructions to ensure compliance and streamline your business operations in this dynamic Southeast Asian hub. Stay informed, save time, and make informed decisions with Sleek's Guide to Licensing and Permits in Singapore.",
+        "name": "sleek",
+        "url": "https://www.youtube.com/embed/njri8_gJTs0?si=Yv1_Ua8JcptuivG1"
+    },
+    "website2": {
+        "name": "GuideMeSingapore",
+        "description": " Explore GuideMeSingapore's comprehensive resource on business licenses and permits in Singapore. This informative guide is a must-read for entrepreneurs, offering valuable insights into the licenses and permits necessary for operating a business in the city-state. From business registration to industry-specific permits, it covers all the essentials. Gain access to essential information, tips, and detailed guidance to ensure legal compliance and smooth business operations in Singapore. Make well-informed decisions and simplify the complexities of managing licenses and permits with GuideMeSingapore's Guide to Business Licenses and Permits in Singapore.",
+        "url": "https://www.guidemesingapore.com/business-guides/managing-business/licenses-and-permits/guide-to-business-licenses-and-permits-in-singapore"
+    },
+    "website5": {
+        "name": "PaulHypePage",
+        "description": "Paul Hype Page presents an informative guide on Singapore's business licenses and permits. This resource is a valuable reference for businesses, providing insights into the licenses and permits essential for seamless operations. It covers everything from company registration to industry-specific requirements. Access comprehensive information, practical tips, and clear instructions to ensure legal compliance and streamline your business endeavors in Singapore. Whether you are a startup or an established company, Paul Hype Page's Guide to Singapore Business Licenses and Permits is a trusted resource to simplify the complexities of navigating the regulatory landscape in Singapore.",
+        "url": "https://www.paulhypepage.com/singapore-business-licenses-and-permits/"
+    },
+    "website3": {
+        "name": "GoBusinessSingapore",
+        "description": "Discover a wealth of licensing information for various sectors in Singapore at GoBusiness. This user-friendly platform provides a convenient way to explore and find the licenses your business may require. It's a valuable resource for entrepreneurs, offering a clear and efficient path to navigate the regulatory landscape. Easily access sector-specific licenses and permits, making it simpler than ever to stay compliant and start or expand your business in Singapore. Whether you're a startup or an established company, GoBusiness streamlines the process of understanding and obtaining the licenses you need to thrive in this thriving business environment.",
+        "url": "https://www.gobusiness.gov.sg/licences/find-licence-by-sector/"
+    },
+    "website4": {
+        "name": "CorporateServicesSingapore",
+        "description": "Navigate Singapore's business licensing and permits landscape with Corporate Services Singapore's comprehensive guide. This resource is a vital tool for businesses of all sizes, offering expert insights into the licenses and permits required for seamless operations in Singapore. From essential business registrations to industry-specific permits, it covers the full spectrum. Access invaluable information, practical tips, and step-by-step instructions to ensure compliance and success in this dynamic business hub. Whether you're a newcomer or an established entity, Corporate Services Singapore's Guide to Business Licenses and Permits is your key to simplifying the complexities of regulatory compliance in Singapore.",
+        "url": "https://www.corporateservicessingapore.com/guide-business-licenses-permits-singapore/"
+    }
+},
+"prevmonthsales": 100,
+"recentsales": "3",
+"responsetime": "2",
+"salesPrevPercent": 22,
+"Courses": {
+    "Course1": {
+        "cname": "Google Analytics - Beginner",
+        "cimg": "google-analytics.png"
+    },
+    "Course2": {
+        "cname": "Adobe Photoshop Mastery",
+        "cimg": "photoshop.png"
+    }
+},
+"webpage": {
+    "referral": "17",
+    "direct": "23",
+    "organic": "60"
+},
+"name": "Jamus Lim",
+"creationdate": "May 2023",
+"reviews": [
+    {
+        "reviewerName": "Liam",
+        "review": "Jamus's phone repair service is an absolute lifesaver. When my phone's screen cracked, I was worried it would be an expensive and time-consuming fix. However, I reached out to Jamus, and he not only repaired my phone swiftly but also did it at a reasonable cost. His expertise in phone repairs is remarkable, and his customer service is top-notch. He goes above and beyond to ensure your phone is restored to its full functionality. If you're in need of phone repair, Jamus is the person to trust for reliable and efficient service.",
+        "rating": 4.8
+    },
+    {
+        "reviewerName": "Ella",
+        "review": "Jamus's phone repair service is truly exceptional. I had a water-damaged phone that I thought was beyond saving. I brought it to Jamus, and he worked his magic. His technical skills and knowledge are impressive, and he managed to revive my phone, saving me the cost of a replacement. What sets Jamus apart is his dedication to providing high-quality repairs while maintaining transparent and fair pricing. If you're looking for a phone repair expert who can bring your device back to life, Jamus is the one to call.",
+        "rating": 4.9
+    },
+    {
+        "reviewerName": "Daniel",
+        "review": "I can't say enough good things about Jamus's phone repair service. He recently fixed my phone's charging port, and the entire experience was outstanding. Jamus is not just a technician; he's a problem solver. He quickly diagnosed the issue and repaired it efficiently, saving me from having to replace my phone. His attention to detail and commitment to customer satisfaction are truly impressive. If you're facing phone issues, big or small, and want a reliable, skilled, and trustworthy repair service, Jamus is the go-to expert.",
+        "rating": 4.7
+    }
+],
+"serviceList": {
+    "serviceTitle": "Professional Phone Service",
+    "serviceDescription": "Expert phone repair and maintenance services.",
+    "serviceImage": [
+        "phone1.jpg",
+        "phone2.jpg",
+        "phone3.jpg"
+    ],
+    "serviceId": "7",
+    "serviceCategory": "Phone Service",
+    "productArray": [
+        {
+            "product_image": "phone1.jpg",
+            "product_description": "Discover the beauty of a pristine screen with our Screen Replacement service. Cracked, shattered, or malfunctioning screens can be a daily frustration. Our skilled technicians will replace your damaged screen with precision and care. Your phone will look and feel like new again, with a crystal-clear display that makes every interaction a joy. We use top-quality replacement screens to ensure vivid colors, sharp clarity, and responsive touch capabilities. Don't let a cracked screen hinder your smartphone experience—choose our Screen Replacement service and enjoy the visual excellence you deserve.",
+            "product_name": "Screen Replacement",
+            "pricing": 10
+        },
+        {
+            "product_image": "phone2.jpg",
+            "product_description": "Revive your smartphone with our professional Battery Replacement service. Is your phone struggling to hold a charge, or is it draining faster than ever? Don't let a weak battery slow you down. Our certified technicians will expertly replace your phone's battery, giving it a new lease on life. Say goodbye to constant charging and hello to extended battery life. Our high-quality replacement batteries ensure your device will run smoothly, keeping you connected and productive all day. Trust us to rejuvenate your phone's power, and experience the convenience of a longer-lasting battery.",
+            "product_name": "Battery Replacement",
+            "pricing": 50
+        },
+        {
+            "product_image": "phone3.jpg",
+            "product_description": "Get to the root of your phone's issues with our comprehensive Phone Diagnosis service. Is your device acting up, but you're not sure why? Our expert technicians will carefully inspect and assess your phone to identify any problems or glitches. Whether it's slow performance, connectivity issues, or mysterious malfunctions, we'll provide a detailed diagnosis report. With this valuable insight, you can make informed decisions about your phone's repairs, upgrades, or maintenance. Let us uncover the mysteries behind your phone's behavior and get it back to peak performance with our Phone Diagnosis service.",
+            "product_name": "Diagnostic Service",
+            "pricing": 40
+        }
+    ]
+}}
